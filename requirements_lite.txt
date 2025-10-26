@@ -5,7 +5,7 @@
 streamlit>=1.28.0
 
 # Traduction (version allégée)
-googletrans==4.0.0rc1
+googletrans==3.1.0a0
 
 # Synthèse vocale
 gtts>=2.4.0
@@ -13,3 +13,4 @@ gtts>=2.4.0
 # Utilitaires de base
 pandas>=2.1.0
 requests>=2.27.0
+
