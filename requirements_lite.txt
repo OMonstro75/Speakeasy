@@ -1,12 +1,4 @@
-# SpeakEasy Translator - Version Légère
-# Installation ultra-simple - pas de bibliothèque de traduction externe
-
-# Interface Web
 streamlit>=1.28.0
-
-# Synthèse vocale
-gtts>=2.4.0
-
-# Utilitaires de base
+gTTS>=2.3.0
 pandas>=2.1.0
 requests>=2.27.0
