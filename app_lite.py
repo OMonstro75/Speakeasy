@@ -5,7 +5,7 @@ Nécessite beaucoup moins d'espace disque (~100 MB au lieu de 40 GB)
 """
 
 import streamlit as st
-from googletrans import Translator, LANGUAGES
+from deep_translator import GoogleTranslator
 from gtts import gTTS
 import pandas as pd
 from datetime import datetime
@@ -404,3 +404,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
